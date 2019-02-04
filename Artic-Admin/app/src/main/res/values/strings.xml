@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Artic-Admin</string>
+
+    <string name="textSample">This is the Artic-Admin application, where all adminsitrators can manage the Artic-Jobs section of the application. This application will be developed soon. </string>
+</resources>
